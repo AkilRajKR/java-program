@@ -23,7 +23,7 @@ public class pramid {
             System.out.print((i)+" ");
         }System.out.println();
       }
-
+sc.close();
 
     }
 }

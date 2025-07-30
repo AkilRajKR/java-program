@@ -8,7 +8,7 @@ public class Nameage {
        int age=sc.nextInt();
 
        System.out.println(name + " " + age);
-
+sc.close();
     }
 }
 /*Enter the name: abc

@@ -20,6 +20,7 @@ public class Stringcompare {
            System.out.println(a.equals(b));
            System.out.println(e.equals(f));
            System.out.println(c.equals(d));
+           sc.close();
     }
 }
 

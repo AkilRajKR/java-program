@@ -15,7 +15,7 @@ public class Arithmeticpro{
      int e=a*b*c;
 
      System.out.println("total multi / total sum: "+(e/d));
-
+sc.close();
     }
 }
 /*First number:  10
