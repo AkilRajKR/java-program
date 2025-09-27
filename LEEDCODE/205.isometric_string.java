@@ -1,6 +1,3 @@
-public class 205.isometric_string {
-    
-}
 import java.util.*;
 class Solution {
     public boolean isIsomorphic(String s, String t) {
